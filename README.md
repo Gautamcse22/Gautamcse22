@@ -1,13 +1,14 @@
-💫 Hi 👋, I'm Gautam Kumar Sah
-A passionate Data Scientist || Data Analyst || Software developer
+# 💫 Hi 👋, I'm Gautam Kumar Sah
+**A passionate Data Scientist || Data Analyst || Software developer**
 
-Email Me 👉 ✉️ gsah0974@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **gsah0974@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🌱 I’m currently learning: Power BI, Tensorflow
-👯 I’m looking to collaborate on: Data Science project(s)
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: gsah0974@gmail.com
-⚡ Fun fact: Tech is my passion, and I’m tech’s obsession.
+- 🌱 **I’m currently learning:** Power BI, Tensorflow
+- 👯 **I’m looking to collaborate on:** Data Science project(s)
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** gsah0974@gmail.com
+- ⚡ **Fun fact:** Tech is my passion, and I’m tech’s obsession.
+
 
 
 ## 🌐 Socials:
