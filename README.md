@@ -10,6 +10,8 @@ Email Me 👉 ✉️ **gsah0974@gmail.com** For Collaboration/Project or Anythin
 - ⚡ **Fun fact:** Tech is my passion, and I’m tech’s obsession.
 
 
+## About Me
+I am pursuing B. Tech. in Computer Science and Engineering. I love exploring new technologies, problem solving and interacting with new people.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gautamgupta_5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gautam-sah18/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsah0974@gmail.com) 
